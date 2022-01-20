@@ -31,7 +31,7 @@ app.listen(3000);
 </code>
 </pre>
 
-The code creates a basic express server, adds one route handler for the root route, to respond with the phrase 'Express web server' when it receives requests. The server then starts listening on port 3000.
+The code creates a basic express server, adds one route handler for the root route, to respond with the text 'Express web server' when it receives requests. The server then starts listening on port 3000.
 
 ## Run the Express Server
 To start the express web server, type the following command on your terminal and hit *Enter*:
