@@ -1,5 +1,28 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-server",
+  "description": "basic express web server for node.js",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm":">=5.0.0"
+  },
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebusa/express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebusa/express-server/issues"
+  },
+  "homepage": "https://github.com/lebusa/express-server#readme"
 }
